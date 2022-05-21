@@ -1,0 +1,15 @@
+/home/quelha/Documents/AllAppIdea/Bin2Dec/bin/Debug/net6.0/Bin2Dec
+/home/quelha/Documents/AllAppIdea/Bin2Dec/bin/Debug/net6.0/Bin2Dec.deps.json
+/home/quelha/Documents/AllAppIdea/Bin2Dec/bin/Debug/net6.0/Bin2Dec.runtimeconfig.json
+/home/quelha/Documents/AllAppIdea/Bin2Dec/bin/Debug/net6.0/Bin2Dec.dll
+/home/quelha/Documents/AllAppIdea/Bin2Dec/bin/Debug/net6.0/ref/Bin2Dec.dll
+/home/quelha/Documents/AllAppIdea/Bin2Dec/bin/Debug/net6.0/Bin2Dec.pdb
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.csproj.AssemblyReference.cache
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.GeneratedMSBuildEditorConfig.editorconfig
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.AssemblyInfoInputs.cache
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.AssemblyInfo.cs
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.csproj.CoreCompileInputs.cache
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.dll
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/ref/Bin2Dec.dll
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.pdb
+/home/quelha/Documents/AllAppIdea/Bin2Dec/obj/Debug/net6.0/Bin2Dec.genruntimeconfig.cache
